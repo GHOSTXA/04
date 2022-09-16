@@ -37,8 +37,8 @@ let fs = require('fs')
 */
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.owner = ['6281361281833']
-global.mods = ['6281361281833']
+global.owner = ['6288279174046']
+global.mods = ['6288279174046']
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 
 
@@ -55,7 +55,7 @@ global.wm3 = '𝑌𝑢𝑠𝒉𝑖𝑛𝑜 𝑀𝑑 '
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.ownername = '⟆𝐀⃟𝐿𝐷𝐼'   
-global.ownernomor = '+62 813 6128 1833'
+global.ownernomor = '+62 882 7917 4046'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
